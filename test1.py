@@ -5,4 +5,5 @@ while i < 10:
         print('%d*%d=%d  '%(i,j,i*j),end="")
         j += 1
     i += 1
+    print('')
 
